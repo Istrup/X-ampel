@@ -1,5 +1,10 @@
 p {
-    font-size: 20
+    font-size: 50;
+    color: darkred;
+    border-radius: 5px;
+    border-style: dotted;
+    margin: 2em;
+    padding: 2em;
 }
 
 body {
